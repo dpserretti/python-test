@@ -42,6 +42,6 @@ Como entregar este teste
 -----
 
 Você deve forkar este projeto em sua própria conta do GitHub e fazer os commits em seu próprio repositório.
-Mandar email para danielserretti.mg@diariosassociados.com.br com o link do repositório.
+Mandar email para danielserretti.mg@diariosassociados.com.br e julianamartins.mg@diariosassociados.com.br com o link do repositório avisando que acabou.
 
-
+Boa sorte!
