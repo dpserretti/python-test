@@ -7,10 +7,12 @@ Obrigado pelo interesse em participar do nosso processo seletivo para Estagiári
 O próximo passo é fazer um pequeno teste para mostrar seus conhecimentos para que possamos alinhar com as expectativas da vaga.
 
 Faça um fork do projeto https://github.com/dpserretti/python-test
+
 Iremos avaliar:
-    - Organização do código (pep8)
-    - Documentação de como: instalar, testar e executar
-    - Criatividade e tecnologias utilizadas na implementação
+1. Organização do código (pep8)
+2. Documentação de como: instalar, testar, executar
+3. Criatividade e tecnologias utilizadas na implementação
+3. Diferenciais: testes e coverage
 
 Caso tenha alguma dúvida sobre o teste sinta-se à vontade para nos enviar um e-mail
 
